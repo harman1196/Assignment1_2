@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment1_2</string>
+    <string-array name="Candidates">
+        <item>Choose Candidate</item>
+        <item>Badal</item>
+        <item>Captain</item>
+        <item>Kejriwal</item>
+
+    </string-array>
+
+
+</resources>
